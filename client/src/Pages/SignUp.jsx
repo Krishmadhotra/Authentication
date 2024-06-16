@@ -24,7 +24,7 @@ const SignUp=()=>{
                     <div className="flex-1">
                         <Label value="Your Email" />
                         <TextInput 
-                            type="text"
+                            type="email"
                             placeholder="Email"
                             id="email"
                         />
@@ -32,7 +32,7 @@ const SignUp=()=>{
                     <div>
                         <Label value="Your Password" />
                         <TextInput 
-                            type="text"
+                            type="passwprd"
                             placeholder="Password"
                             id="password"
                         />
